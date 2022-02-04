@@ -27,5 +27,5 @@ Open http://localhost:3000 to view it in the browser)
 
 ## Exemplo de arquivo completo typescript, com Jest e styled-component:
 
-# src/components/Login
+src/components/Login
 
