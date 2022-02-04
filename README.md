@@ -10,11 +10,11 @@ docker run -p 8090:8090 valdenirsantana/spring-api-alunos-bolsas:0.0.1-SNAPSHOT
 
 ### Deve-se instalar as dependências do projeto digitando:
 
-yarn install
+npm i
 
 ### Logo após pode inicializar o projeto digitando:
 
-yarn start
+npm run start
 
 (Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser)
